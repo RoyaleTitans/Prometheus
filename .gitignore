@@ -18,6 +18,9 @@
 *.tar.gz
 *.rar
 
+# IDEA
+.idea/
+
 # Mac
 .DS_Store
 
